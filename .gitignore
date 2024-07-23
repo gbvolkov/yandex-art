@@ -1,0 +1,5 @@
+/.venv
+/get_iam.ps1
+/lesson30.ipynb
+/main.py
+/__pycache__

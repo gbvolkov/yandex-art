@@ -1,0 +1,6 @@
+python-dotenv
+requests
+flask
+flask-login
+flask_wtf
+wtforms
